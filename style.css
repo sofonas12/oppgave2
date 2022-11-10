@@ -1,0 +1,14 @@
+.container{
+    margin-top: 30px;
+   margin-left: 10%;
+    max-width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 13px 20px 13px rgb(44, 38, 38);
+    background-color: gray;
+}
+
+img{
+    width: 87%;
+}
